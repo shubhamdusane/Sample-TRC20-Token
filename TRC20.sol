@@ -28,9 +28,9 @@ contract TRC20 {
 	
 	event Unfreeze(address indexed owner, uint256 tokens);
 
-    uint256 initialSupply = 104000000;
-    string tokenName = 'KYC Crypto';
-    string tokenSymbol = 'KYC';
+    uint256 initialSupply = 800000000;
+    string tokenName = 'LOL Crypto';
+    string tokenSymbol = 'LOL';
     
     
     constructor() public {
